@@ -15,3 +15,6 @@
         Output 2: Car registration number does not exist ( Red)
         Output 3: Car details are not matching with output file ( Red)
 8. To run the tests, go to class ""src/test/java/tests/CarValuationTest.java" and click on the TestNg method for execution
+9. Cucumber falvour can be added to to segrgatte the test cases.
+10. I can still refactor the code to pre-processing, exeuction and post-processing.But due to time, I ca't make those changes.
+   
