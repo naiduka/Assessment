@@ -37,6 +37,8 @@ public class CCarDetailsPage {
     @FindBy(xpath ="//p[text()='Engine size: ']/b")
     private WebElement engineSize;
 
+    //We need to verify the elements
+
     @FindBy(xpath="//h3[contains(text(),'We couldn')]")
     private WebElement errorMessage;
 
