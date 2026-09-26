@@ -5,3 +5,4 @@ BW57BOF,TOYOTA,YARIS T2,3 Door Hatchback,Petrol,Manual,2008
 KT17DLX,SKODA,SUPERB SPORTLINE,5 Door Estate,Diesel,Automatic,2017
 SA11KUC,BMW,TEST DATA,TEST1,Petrol,Manual,2011
 RA57XVY,HONDA,JAZZ SE,5 Door Hatchback,Petrol,Automatic,2008
+SA11KUC,VAUXHALL,ASTRA,5 Door Hatchback,Petrol,Manual,2011
